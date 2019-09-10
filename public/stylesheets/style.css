@@ -1,0 +1,15 @@
+.btn-escond{
+  display: none;
+}
+
+.card{
+  min-width: 200px;
+  min-height: 200px;
+  max-height: 300px;
+}
+
+
+.dtr-details{  width: 100% !important;
+
+}
+  
